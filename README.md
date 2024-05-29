@@ -26,8 +26,8 @@ After successfully searching the available offers, you can apply filters based o
 ## Preview
 ![Start Screen](screenshots/login.PNG "Start Screen")
 ![Main](screenshots/menu.PNG "Main")
-![Search](screenshots/search.PNG "Search")
-![Filters](screenshots/search_filters.PNG "Filters")
+![Search](screenshots/search.png "Search")
+![Filters](screenshots/search_filters.png "Filters")
 
 
 
