@@ -34,7 +34,7 @@ After successfully searching the available offers, you can apply filters based o
 ## Created by
 
 - **[Dominik Bongowski](https://github.com/dbongowski)**
-- **[Tomasz Downar-Zapolski](https://github.com/)**
+- **[Tomasz Downar-Zapolski](https://github.com/engrPharmacist)**
 
 ## License
 
