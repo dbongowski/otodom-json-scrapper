@@ -16,11 +16,11 @@ After successfully searching the available offers, you can apply filters based o
 
 ## Built with
 
-**IDE:** Intellij IDEA Comunity Edition, Pycharm Community Edition
-**Runtime:** jdk-17.0.1, python 3.9
-**Database controll:** XAMPP
+**IDE:** Intellij IDEA Comunity Edition, Pycharm Community Edition  
+**Runtime:** jdk-17.0.1, python 3.9  
+**Database controll:** XAMPP  
 **Additional drivers:** mysql-connector-j-8.0.33  
-**Additional libraries:** javafx, http.server, urllib.parse, json
+**Additional libraries:** javafx, http.server, urllib.parse, json  
 
 
 ## Preview
